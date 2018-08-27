@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fragment-state-pager-adapter</string>
+    <string name="hello_world">Hello</string>
+</resources>
